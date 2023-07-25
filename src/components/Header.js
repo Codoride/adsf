@@ -5,7 +5,7 @@ function Header(){
 
     return(     
         <div className='App-header'>
-        <h1>Data here</h1>
+        <h1>Data there</h1>
         </div>
     )
 }
